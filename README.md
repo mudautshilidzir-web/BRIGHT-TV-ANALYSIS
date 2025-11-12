@@ -27,11 +27,15 @@ This analysis provides BrightTV with:
 
 ## Tools and Technologies
 
-  -SQL — for data extraction, classification, and aggregation.
-  -Snowflake-for data storage, querying, and analytics.
-  -Excel	-Data visualization, charts, and pivot analysis
-  -Canva	-Report design, infographics, and presentation slides
-  -Miro	-Project planning, brainstorming, and workflow visualization
+-SQL — for data extraction, classification, and aggregation.
+
+-Snowflake-for data storage, querying, and analytics.
+
+-Excel	-Data visualization, charts, and pivot analysis.
+
+-Canva	-Report design, infographics, and presentation slides.
+
+-Miro	-Project planning, brainstorming, and workflow visualization.
 
 
 
