@@ -21,8 +21,11 @@ The main goal of this case study is to identify patterns in viewer behavior and 
 This analysis provides BrightTV with:
 
 -Insights into the most active and valuable viewer segments.
+
 -Understanding of content preferences by demographic group.
+
 -Identification of optimal time slots for broadcasting.
+
 -Data-driven recommendations to increase subscriptions.
 
 ## Tools and Technologies
