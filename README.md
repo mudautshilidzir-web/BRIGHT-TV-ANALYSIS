@@ -16,7 +16,7 @@ This project focuses on analyzing BrightTV’s viewership and user data to suppo
 
 The main goal of this case study is to identify patterns in viewer behavior and demographics that can guide BrightTV in making data-driven marketing and content decisions. By understanding who is watching, what they watch, and when they watch, BrightTV can design targeted campaigns to increase subscriptions and viewer satisfaction.
 
-## 📈 Expected Outcomes
+## Expected Outcomes
 
 This analysis provides BrightTV with:
 
